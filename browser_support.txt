@@ -1,3 +1,4 @@
 Google Chrome
 Firefox
 Microsoft Edge
+Safari
